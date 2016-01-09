@@ -1,7 +1,7 @@
 {
     "name": "ucsdmath/cron-scheduler",
     "description": "A UCSDMath PHP simple Cron Scheduler Management Component",
-    "keywords": ["ucsdmath", "cron-scheduler", "framework"],
+    "keywords": ["cron-scheduler", "ucsdmath", "cron", "auto-scheduler", "component"],
     "homepage": "https://github.com/ucsdmath",
     "type": "library",
     "license": "MIT",
