@@ -1,13 +1,11 @@
 {
     "name": "ucsdmath/cron-scheduler",
+    "type": "library",
     "description": "A UCSDMath PHP simple Cron Scheduler Management Component",
     "keywords": ["cron-scheduler", "ucsdmath", "cron", "auto-scheduler", "component"],
     "homepage": "https://github.com/ucsdmath",
-    "type": "library",
     "license": "MIT",
     "time": "2015-12-05",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "authors": [
         {"name": "Daryl Eisner", "email": "deisner@ucsd.edu"}
     ],
@@ -33,6 +31,8 @@
     "suggest": {
         "symfony/dependency-injection": "Symfony DependencyInjection Component for fast loading of classes"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "extra": {
         "branch-alias": {
             "dev-master": "1.6.x-dev"
