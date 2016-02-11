@@ -32,4 +32,6 @@ interface CronSchedulerInterface
     const CRLF                 = "\r\n";
     const DEFAULT_TIMEZONE     = 'America/Los_Angeles';
     const REQUIRE_HTTPS        = true;
+
+    // --------------------------------------------------------------------------
 }

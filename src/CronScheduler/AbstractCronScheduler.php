@@ -89,4 +89,6 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
      * (+) throwInvalidArgumentExceptionError(array $error);
      */
     use ServiceFunctions;
+
+    // --------------------------------------------------------------------------
 }

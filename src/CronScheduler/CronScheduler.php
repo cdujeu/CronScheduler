@@ -48,4 +48,6 @@ class CronScheduler extends AbstractCronScheduler implements CronSchedulerInterf
     {
         parent::__construct();
     }
+
+    // --------------------------------------------------------------------------
 }
