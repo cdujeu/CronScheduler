@@ -23,7 +23,7 @@ adding the ucsdmath/cron-scheduler package to your composer.json file:
 
 ```
 "require": {
-    "php": ">=7.0.0",
+    "php": "^7.0",
     "ucsdmath/cron-scheduler": "dev-master"
 },
 ```
