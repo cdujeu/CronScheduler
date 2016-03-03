@@ -18,6 +18,10 @@
 
 CronScheduler is in development to become a cron scheduler class for future projects.  Not currently used in production.
 
+Copy this software from:
+- [Packagist.org](https://packagist.org/packages/ucsdmath/CronScheduler)
+- [Github.com](https://github.com/ucsdmath/CronScheduler)
+
 ## Installation using [Composer](http://getcomposer.org/)
 You can install the class ```CronScheduler``` with Composer and Packagist by
 adding the ucsdmath/cron-scheduler package to your composer.json file:
