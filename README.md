@@ -13,6 +13,7 @@
 [![Total Downloads](https://poser.pugx.org/ucsdmath/cron-scheduler/downloads)](https://packagist.org/packages/ucsdmath/cron-scheduler)
 [![Latest Unstable Version](https://poser.pugx.org/ucsdmath/cron-scheduler/v/unstable)](https://packagist.org/packages/ucsdmath/cron-scheduler)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/?branch=master)
+[![Quality Score](https://img.shields.io/scrutinizer/g/ucsdmath/CronScheduler.svg)](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/badges/build.png?b=master)](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/build-status/master)
 
 CronScheduler is in development to become a cron scheduler class for future projects.  Not currently used in production.
