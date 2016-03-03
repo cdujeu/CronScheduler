@@ -8,13 +8,13 @@
   </tr>
 </table>
 ---
+[![Build Status](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/badges/build.png?b=master)](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/build-status/master)
 [![Latest Stable Version](https://poser.pugx.org/ucsdmath/cron-scheduler/v/stable)](https://packagist.org/packages/ucsdmath/cron-scheduler)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.0-8892BF.svg?style=flat)](https://php.net/)
 [![License](https://poser.pugx.org/ucsdmath/cron-scheduler/license)](https://packagist.org/packages/ucsdmath/cron-scheduler)
 [![Total Downloads](https://poser.pugx.org/ucsdmath/cron-scheduler/downloads)](https://packagist.org/packages/ucsdmath/cron-scheduler)
 [![Latest Unstable Version](https://poser.pugx.org/ucsdmath/cron-scheduler/v/unstable)](https://packagist.org/packages/ucsdmath/cron-scheduler)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/?branch=master)
-[![Quality Score](https://img.shields.io/scrutinizer/g/ucsdmath/CronScheduler.svg)](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/badges/build.png?b=master)](https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/build-status/master)
 
 CronScheduler is in development to become a cron scheduler class for future projects.  Not currently used in production.
 
