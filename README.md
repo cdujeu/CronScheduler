@@ -17,6 +17,7 @@
 [![License](https://poser.pugx.org/ucsdmath/cron-scheduler/license)](https://packagist.org/packages/ucsdmath/cron-scheduler)
 
 CronScheduler is in development to become a cron scheduler class for future projects.  Not currently used in production.
+Many features of this component have not been developed but are planned for future implementation.  UCSDMath components are written to be adapters of great developments such as Symfony, Twig, Doctrine, etc. This is a learning and experimental library only.
 
 Copy this software from:
 - [Packagist.org](https://packagist.org/packages/ucsdmath/CronScheduler)
