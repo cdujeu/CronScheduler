@@ -34,5 +34,5 @@ interface CronSchedulerInterface
     const DEFAULT_TIMEZONE     = 'America/Los_Angeles';
     const REQUIRE_HTTPS        = true;
 
-    // --------------------------------------------------------------------------
+    //--------------------------------------------------------------------------
 }

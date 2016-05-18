@@ -39,7 +39,7 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
      */
     const VERSION = '1.7.0';
 
-    // --------------------------------------------------------------------------
+    //--------------------------------------------------------------------------
 
     /**
      * Properties.
@@ -52,7 +52,7 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
     protected static $instance = null;
     protected static $objectCount = 0;
 
-    // --------------------------------------------------------------------------
+    //--------------------------------------------------------------------------
 
     /**
      * Constructor.
@@ -65,7 +65,7 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
         static::$objectCount++;
     }
 
-    // --------------------------------------------------------------------------
+    //--------------------------------------------------------------------------
 
     /**
      * Method implementations inserted:
@@ -96,5 +96,5 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
      */
     use ServiceFunctions;
 
-    // --------------------------------------------------------------------------
+    //--------------------------------------------------------------------------
 }
