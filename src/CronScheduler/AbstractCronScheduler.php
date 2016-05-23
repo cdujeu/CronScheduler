@@ -18,13 +18,12 @@ use UCSDMath\Functions\ServiceFunctionsInterface;
 
 /**
  * AbstractCronScheduler provides an abstract base class implementation of {@link CronSchedulerInterface}.
- * Primarily, this service provides the fundamental configuration required by applications.
- *
- * This component library is used to service for cron scheduling.
+ * This service groups a common code base implementation that CronScheduler extends.
  *
  * Method list: (+) @api, (-) protected or private visibility.
  *
  * (+) CronSchedulerInterface __construct();
+ * (+) void __destruct();
  *
  * @author Daryl Eisner <deisner@ucsd.edu>
  */
@@ -33,7 +32,7 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
     /**
      * Constants.
      *
-     * @var string VERSION  A version number
+     * @var string VERSION A version number
      *
      * @api
      */
