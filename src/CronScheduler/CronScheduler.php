@@ -15,11 +15,17 @@ namespace UCSDMath\CronScheduler;
 
 /**
  * CronScheduler is the default implementation of {@link CronSchedulerInterface} which
- * provides routine cron methods that are commonly used in frameworks.
+ * provides routine CronScheduler methods that are commonly used in the framework.
+ *
+ * {@link AbstractCronScheduler} is basically a base class for various Cron routines
+ * which this class extends.
+ *
+ * Method list: (+) @api, (-) protected or private visibility.
+ *
+ * (+) CronSchedulerInterface __construct();
+ * (+) void __destruct();
  *
  * @author Daryl Eisner <deisner@ucsd.edu>
- *
- * @api
  */
 class CronScheduler extends AbstractCronScheduler implements CronSchedulerInterface
 {
