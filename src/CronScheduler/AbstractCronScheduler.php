@@ -43,13 +43,13 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
     /**
      * Properties.
      *
-     * @var    array                  $storageRegister  A set of validation stored data elements
-     * @static CronSchedulerInterface $instance         A CronSchedulerInterface
-     * @static int                    $objectCount      A CronSchedulerInterface count
+     * @static CronSchedulerInterface $instance        A static instance CronSchedulerInterface
+     * @static int                    $objectCount     A static count of CronSchedulerInterface
+     * @var    array                  $storageRegister A stored set of data structures used by this class
      */
-    protected $storageRegister = array();
-    protected static $instance = null;
+    protected static $instance    = null;
     protected static $objectCount = 0;
+    protected $storageRegister    = [];
 
     //--------------------------------------------------------------------------
 
@@ -62,6 +62,18 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
     {
         static::$instance = $this;
         static::$objectCount++;
+    }
+
+    //--------------------------------------------------------------------------
+
+    /**
+     * Destructor.
+     *
+     * @api
+     */
+    public function __destruct()
+    {
+        static::$objectCount--;
     }
 
     //--------------------------------------------------------------------------

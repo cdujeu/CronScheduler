@@ -57,4 +57,16 @@ class CronScheduler extends AbstractCronScheduler implements CronSchedulerInterf
     }
 
     //--------------------------------------------------------------------------
+
+    /**
+     * Destructor.
+     *
+     * @api
+     */
+    public function __destruct()
+    {
+        parent::__destruct();
+    }
+
+    //--------------------------------------------------------------------------
 }
