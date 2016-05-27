@@ -16,7 +16,7 @@ namespace UCSDMath\CronScheduler;
 /**
  * CronSchedulerInterface is the interface implemented by all CronScheduler classes.
  *
- * Method noted as: (+) @api.
+ * Method list: (+) @api.
  *
  * @author Daryl Eisner <deisner@ucsd.edu>
  *
