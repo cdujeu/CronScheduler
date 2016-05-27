@@ -60,7 +60,7 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
      */
     public function __construct()
     {
-        static::$instance = $this;
+        static::$instance = new static;
         static::$objectCount++;
     }
 
