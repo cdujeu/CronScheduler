@@ -7,14 +7,13 @@
     "license": "MIT",
     "time": "2016-03-01",
     "authors": [
-        {"name": "Daryl Eisner", "email": "deisner@ucsd.edu"}
+        {
+            "name": "Daryl Eisner",
+            "email": "deisner@ucsd.edu"
+        }
     ],
-    "support": {
-        "source": "https://github.com/UCSDMath/CronScheduler",
-        "email": "deisner@ucsd.edu"
-    },
     "require": {
-        "php": "^7.0",
+        "php": ">=7.0.0",
         "symfony/yaml": "3.0.6"
     },
     "require-dev": {
@@ -35,5 +34,6 @@
         "branch-alias": {
             "dev-master": "1.7-dev"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
