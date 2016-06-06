@@ -32,7 +32,7 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
     /**
      * Constants.
      *
-     * @var string VERSION A version number
+     * @var string VERSION The version number
      *
      * @api
      */
@@ -43,9 +43,9 @@ abstract class AbstractCronScheduler implements CronSchedulerInterface, ServiceF
     /**
      * Properties.
      *
-     * @static CronSchedulerInterface $instance        A static instance CronSchedulerInterface
-     * @static int                    $objectCount     A static count of CronSchedulerInterface
-     * @var    array                  $storageRegister A stored set of data structures used by this class
+     * @static CronSchedulerInterface $instance        The static instance CronSchedulerInterface
+     * @static int                    $objectCount     The static count of CronSchedulerInterface
+     * @var    array                  $storageRegister The stored set of data structures used by this class
      */
     protected static $instance    = null;
     protected static $objectCount = 0;

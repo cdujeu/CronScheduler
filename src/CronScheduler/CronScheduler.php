@@ -32,7 +32,7 @@ class CronScheduler extends AbstractCronScheduler implements CronSchedulerInterf
     /**
      * Constants.
      *
-     * @var string VERSION A version number
+     * @var string VERSION The version number
      *
      * @api
      */
