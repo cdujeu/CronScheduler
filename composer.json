@@ -5,7 +5,7 @@
     "keywords": ["cron-scheduler", "ucsdmath", "cron", "auto-scheduler", "component"],
     "homepage": "https://github.com/ucsdmath",
     "license": "MIT",
-    "time": "2016-03-01",
+    "time": "2016-07-03",
     "authors": [
         {
             "name": "Daryl Eisner",
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "symfony/yaml": "3.1.1"
+        "symfony/yaml": "3.1.2"
     },
     "require-dev": {
         "mockery/mockery": "0.9.5",
