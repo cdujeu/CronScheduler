@@ -19,7 +19,7 @@
     "require-dev": {
         "mockery/mockery": "0.9.5",
         "phpunit/phpunit": "5.4.6",
-        "ucsdmath/testing": "1.7.x-dev",
+        "ucsdmath/testing": "1.7.0",
         "squizlabs/php_codesniffer": "2.6.1"
     },
     "autoload": {
