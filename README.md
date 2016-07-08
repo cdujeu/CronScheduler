@@ -13,8 +13,8 @@
         <a href="https://travis-ci.org/ucsdmath/CronScheduler">
         <img style="float: left; margin: 0px 0px 15px 15px;" src="https://travis-ci.org/ucsdmath/CronScheduler.svg?branch=master"></a></td>
     <td width="250" align="center">
-        <a href="https://insight.sensiolabs.com/projects/fb5c6e9a-2882-4fd9-beb1-26b71ad5eb76">
-        <img src="https://insight.sensiolabs.com/projects/fb5c6e9a-2882-4fd9-beb1-26b71ad5eb76/big.png" style="float: right; margin: 0px 0px 15px 15px;" width="212" height="51"></a></td>
+        <a href="https://insight.sensiolabs.com/projects/4aedd26d-d2cc-4d93-b9f9-701f61f7bff9">
+        <img src="https://insight.sensiolabs.com/projects/4aedd26d-d2cc-4d93-b9f9-701f61f7bff9/big.png" style="float: right; margin: 0px 0px 15px 15px;" width="212" height="51"></a></td>
     <td width="180">
         <a href="https://www.versioneye.com/php/ucsdmath:cron-scheduler">
         <img style="float: left; margin: 0px 0px 15px 15px;" src="https://www.versioneye.com/php/ucsdmath:cron-scheduler/badge.png?branch=master"></a></td>
