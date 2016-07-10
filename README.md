@@ -22,23 +22,23 @@
         <a href="https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/build-status/master">
         <img src="https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/badges/build.png?b=master"></a></td>
     <td valign="top" width="112" align="center">
-        <a href="https://packagist.org/packages/ucsdmath/CronScheduler">
-        <img src="https://poser.pugx.org/ucsdmath/CronScheduler/v/stable"></a></td>
+        <a href="https://packagist.org/packages/ucsdmath/cron-scheduler">
+        <img src="https://poser.pugx.org/ucsdmath/cron-scheduler/v/stable"></a></td>
     <td valign="top" width="108" align="center">
         <a href="https://php.net/">
         <img src="https://img.shields.io/badge/php-%3E%3D%207.0-8892BF.svg"></a></td>
     <td valign="top" width="150" align="center">
-        <a href="https://packagist.org/packages/ucsdmath/CronScheduler">
-        <img src="https://poser.pugx.org/ucsdmath/CronScheduler/downloads"></a></td>
+        <a href="https://packagist.org/packages/ucsdmath/cron-scheduler">
+        <img src="https://poser.pugx.org/ucsdmath/cron-scheduler/downloads"></a></td>
     <td valign="top" width="142" align="center">
-        <a href="https://packagist.org/packages/ucsdmath/CronScheduler">
-        <img src="https://poser.pugx.org/ucsdmath/CronScheduler/v/unstable"></a></td>
+        <a href="https://packagist.org/packages/ucsdmath/cron-scheduler">
+        <img src="https://poser.pugx.org/ucsdmath/cron-scheduler/v/unstable"></a></td>
     <td valign="top" width="142" align="center">
         <a href="https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/?branch=master">
         <img src="https://scrutinizer-ci.com/g/ucsdmath/CronScheduler/badges/quality-score.png?b=master"></a></td>
     <td valign="top" width="110" align="center">
-        <a href="https://packagist.org/packages/ucsdmath/CronScheduler">
-        <img src="https://poser.pugx.org/ucsdmath/CronScheduler/license"></a></td>
+        <a href="https://packagist.org/packages/ucsdmath/cron-scheduler">
+        <img src="https://poser.pugx.org/ucsdmath/cron-scheduler/license"></a></td>
 </tr></table>
 
 CronScheduler is in development to become a cron scheduler class for future projects.  Not currently used in production.
