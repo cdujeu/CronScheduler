@@ -7,7 +7,9 @@
 <table width="550"><tr><td width="120"><b>Travis CI</b></td><td width="250"><b>SensioLabs</b></td><td width="180"><b>Dependencies</b></td></tr><tr>
     <td width="120" align="center">
         <a href="https://travis-ci.org/ucsdmath/CronScheduler">
-        <img src="https://travis-ci.org/ucsdmath/CronScheduler.svg?branch=master" style="float: left; margin: 0px 0px 10px 10px;"></a></td>
+        <img src="https://travis-ci.org/ucsdmath/CronScheduler.svg?branch=master" style="float: left; margin: 0px 0px 10px 10px;"></a><br>
+        <a href="https://www.codacy.com/app/ucsdmath-project/CronScheduler">
+        <img src="https://api.codacy.com/project/badge/Grade/66d3193e67b04916ae8fb2d7e4d09c83"></a></td>
     <td width="250" align="center">
         <a href="https://insight.sensiolabs.com/projects/9d49692d-22b1-4210-8792-a9561465828b">
         <img src="https://insight.sensiolabs.com/projects/9d49692d-22b1-4210-8792-a9561465828b/big.png" style="float: right; margin: 0px 0px 10px 10px;" width="212" height="51"></a></td>
